@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Parth Tiwari 👋
 
-<!--
-**Parthtiwari028/Parthtiwari028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student | Python Backend & Data Science
 
-Here are some ideas to get you started:
+I'm a CSE student interested in building practical applications using Python, FastAPI, SQL, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- Python
+- FastAPI & REST APIs
+- SQL & SQLite
+- Pandas & Scikit-learn
+- Machine Learning
+- Streamlit
+- Git & GitHub
+
+### 🚀 Featured Projects
+
+#### 🏠 Real Estate Price Predictor & Investment Analyzer
+
+Machine Learning project for Bengaluru property price prediction using Random Forest and Streamlit.
+
+**Result:** R² = 0.7758
+
+[View Project](https://github.com/Parthtiwari028/real-estate-price-predictor)
+
+#### 💼 Job Tracker API
+
+REST API for managing job applications using FastAPI, SQLite, and Pydantic.
+
+[View Project](https://github.com/Parthtiwari028/job-tracker-api)
+
+#### 🎓 Student Performance API
+
+REST API for managing student performance records using FastAPI, SQLite, and Pydantic.
+
+[View Project](https://github.com/Parthtiwari028/student-performance-api)
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/parth-tiwari-cse/
+- GitHub: https://github.com/Parthtiwari028
