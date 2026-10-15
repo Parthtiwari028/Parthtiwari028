@@ -1,42 +1,58 @@
 # Hi, I'm Parth Tiwari 👋
 
-### Computer Science & Engineering Student | Python Backend & Data Science
+### Computer Science Engineering Student | Python Backend Development | Machine Learning
 
-I'm a CSE student interested in building practical applications using Python, FastAPI, SQL, and Machine Learning.
+I'm a Computer Science Engineering student at Bangalore Technological Institute, interested in building practical software applications using Python, backend technologies, databases, and machine learning.
 
-### 🛠️ Technical Skills
+I enjoy learning by building projects and improving my problem-solving and software development skills.
 
-- Python
-- FastAPI & REST APIs
-- SQL & SQLite
-- Pandas & Scikit-learn
-- Machine Learning
-- Streamlit
-- Git & GitHub
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
+### 🏡 Real Estate Price Predictor
+A machine learning application that predicts property prices and provides investment insights using Bengaluru housing data.
 
-#### 🏠 Real Estate Price Predictor & Investment Analyzer
-
-Machine Learning project for Bengaluru property price prediction using Random Forest and Streamlit.
-
-**Result:** R² = 0.7758
+**Tech:** Python, Pandas, Scikit-learn, Streamlit
 
 [View Project](https://github.com/Parthtiwari028/real-estate-price-predictor)
 
-#### 💼 Job Tracker API
+### 💼 Job Tracker API
+A backend API for managing and tracking job applications.
 
-REST API for managing job applications using FastAPI, SQLite, and Pydantic.
+**Tech:** Python, FastAPI, SQLite
 
 [View Project](https://github.com/Parthtiwari028/job-tracker-api)
 
-#### 🎓 Student Performance API
+### 🎓 Student Performance API
+A REST API for managing student information and academic performance.
 
-REST API for managing student performance records using FastAPI, SQLite, and Pydantic.
+**Tech:** Python, FastAPI, SQLite, Pydantic
 
 [View Project](https://github.com/Parthtiwari028/student-performance-api)
 
-### 📫 Connect With Me
+### 💰 Expense Tracker
+A Python application for recording expenses and reviewing spending summaries.
 
-- LinkedIn: https://www.linkedin.com/in/parth-tiwari-cse/
-- GitHub: https://github.com/Parthtiwari028
+**Tech:** Python, JSON, File Handling
+
+[View Project](https://github.com/Parthtiwari028/expense-tracker-python)
+
+## 🛠️ Technologies
+
+- **Language:** Python
+- **Backend:** FastAPI, REST APIs
+- **Database:** SQLite
+- **Data Science:** Pandas, Scikit-learn
+- **Tools:** Git, GitHub, VS Code
+
+## 🎯 Current Goals
+
+- Improve my Python and backend development skills.
+- Learn software testing and write better-quality code.
+- Build practical projects with clear documentation.
+- Prepare for software development internships.
+
+## 🤝 Connect With Me
+
+- [GitHub](https://github.com/Parthtiwari028)
+- [LinkedIn](https://www.linkedin.com/in/parth-tiwari-cse/)
+
